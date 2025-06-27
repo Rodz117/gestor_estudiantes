@@ -1,0 +1,28 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+h1, h3 {
+  color: #343a40;
+}
+
+form {
+  margin-top: 20px;
+}
+
+.list-group-item {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.container {
+  max-width: 960px;
+}
+
+section {
+  padding-top: 60px;
+  scroll-margin-top: 80px;
+}
